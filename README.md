@@ -1,4 +1,4 @@
-# UniverseXYZ-Whitepaper
+# Universe Whitepaper
 
 ![](images/page1.png)
 
