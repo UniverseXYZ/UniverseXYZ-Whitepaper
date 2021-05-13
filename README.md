@@ -1,23 +1,23 @@
 # UniverseXYZ-Whitepaper
 
-![](images/page1)
+![](images/page1.png)
 
-![](images/page2)
+![](images/page2.png)
 
-![](images/page3)
+![](images/page3.png)
 
-![](images/page4)
+![](images/page4.png)
 
-![](images/page5)
+![](images/page5.png)
 
-![](images/page6)
+![](images/page6.png)
 
-![](images/page7)
+![](images/page7.png)
 
-![](images/page8)
+![](images/page8.png)
 
-![](images/page9)
+![](images/page9.png)
 
-![](images/page10)
+![](images/page10.png)
 
-![](images/page11)
+![](images/page11.png)
