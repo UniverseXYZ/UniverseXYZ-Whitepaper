@@ -88,7 +88,7 @@ A total of 69,777 $XYZ will be minted during a calendar year in order to re-cali
 
 A stream of $XYZ tokens will be released annually. These tokens are distributed to team, contributors, and the community.
 
-![](images/suppy.png)
+![](images/supply.png)
 
 ![](images/token-distribution.png)
 
