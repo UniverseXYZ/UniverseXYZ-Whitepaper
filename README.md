@@ -94,7 +94,7 @@ A stream of $XYZ tokens will be released annually. These tokens are distributed 
 
 $XYZ is a governance token that powers Universe.xyz. $XYZ has no other function.
 
-## Token Distribution
+### Token Distribution
 
 ![](images/token-distribution.png)
 
