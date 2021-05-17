@@ -90,11 +90,13 @@ A stream of $XYZ tokens will be released annually. These tokens are distributed 
 
 ![](images/supply.png)
 
-![](images/token-distribution.png)
-
 ### Token economics
 
 $XYZ is a governance token that powers Universe.xyz. $XYZ has no other function.
+
+## Token Distribution
+
+![](images/token-distribution.png)
 
 ### Yield farming
 
