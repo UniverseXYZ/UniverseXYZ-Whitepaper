@@ -78,7 +78,7 @@ The xyzDAO is a direct fork of the BarnBridge DAO, which was audited by Quantsta
 
 ## xyzToken
 
-The initial $XYZ supply will be 1,000,000 $XYZ.
+The initial $XYZ supply will be 1,000,000,000 $XYZ.
 
 A total of 69,777 $XYZ will be minted during a calendar year in order to re-calibrate the treasury and ensure long term contributors can be a part of the project.  Inflation will kick in 1 calendar year after the xyzDAO is launched. 
 
